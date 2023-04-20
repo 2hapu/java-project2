@@ -1,4 +1,4 @@
-package com.example.javaproject2.week1;
+package com.example.javaproject.week1;
 
 import java.io.IOException;
 

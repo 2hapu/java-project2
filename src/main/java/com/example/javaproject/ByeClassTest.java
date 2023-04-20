@@ -1,4 +1,4 @@
-package com.example.javaproject2;
+package com.example.javaproject;
 
 public class ByeClassTest {
     public static void main(String[] args) {
