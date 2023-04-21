@@ -2,10 +2,12 @@ package com.example.javaproject.codeup;
 
 import java.util.Scanner;
 
-public class Codeup1010 {
+public class Codeup1018 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int iVal = sc.nextInt();
-        System.out.println(iVal);
+        String time = sc.next();
+
+        System.out.printf("%s", time);
+
     }
 }
