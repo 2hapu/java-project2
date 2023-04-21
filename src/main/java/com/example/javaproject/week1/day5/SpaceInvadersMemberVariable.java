@@ -16,6 +16,7 @@ public class SpaceInvadersMemberVariable {
         simv.moveRight();
         simv.moveRight();
         simv.moveRight();
+        simv.moveRight();
 
         System.out.printf("최종 위치: %d\n",simv.location);
         simv.moveLeft();
