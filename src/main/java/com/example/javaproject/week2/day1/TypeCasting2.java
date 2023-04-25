@@ -1,4 +1,4 @@
-package com.example.javaproject.week2;
+package com.example.javaproject.week2.day1;
 
 public class TypeCasting2 {
     public static void main(String[] args) {

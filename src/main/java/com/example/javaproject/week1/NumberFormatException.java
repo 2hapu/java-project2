@@ -1,4 +1,4 @@
-package com.example.javaproject;
+package com.example.javaproject.week1;
 
 public class NumberFormatException {
     public static void main(String[] args) {
