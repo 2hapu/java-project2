@@ -1,4 +1,4 @@
-package com.example.javaproject.week3.day1;
+package com.example.javaproject.programmers;
 
 public class ProgrammersNumberConcatenator2 {
     // int만 사용하는 버전

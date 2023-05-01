@@ -1,4 +1,4 @@
-package com.example.javaproject.week3.day1;
+package com.example.javaproject.programmers;
 
 public class ProgrammersNumberConcatenator {
     public static void main(String[] args) {
