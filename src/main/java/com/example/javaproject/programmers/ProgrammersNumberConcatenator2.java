@@ -1,6 +1,7 @@
 package com.example.javaproject.programmers;
 
 public class ProgrammersNumberConcatenator2 {
+    // https://school.programmers.co.kr/learn/courses/30/lessons/181928
     // int만 사용하는 버전
     public static void main(String[] args) {
         class Solution {

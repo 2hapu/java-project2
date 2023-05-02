@@ -1,6 +1,7 @@
 package com.example.javaproject.programmers;
 
 public class ProgrammersNumberConcatenator {
+    //https://school.programmers.co.kr/learn/courses/30/lessons/181928
     public static void main(String[] args) {
         int[] num_list = new int[]{3, 4, 5, 2, 1};
         int answer = 0;
