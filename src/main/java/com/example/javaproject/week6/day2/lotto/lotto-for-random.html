@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>로또 번호 추첨기</title>
+</head>
+<body>
+    <h1>로또 번호 추첨기</h1>
+    <script>
+        var lotto = [];
+        for (var i = 0; i < 6; i++) {
+            lotto.push(parseInt(Math.random() * 45 + 1));
+        }
+        document.write(lotto);
+    </script>
+</body>
+</html>
