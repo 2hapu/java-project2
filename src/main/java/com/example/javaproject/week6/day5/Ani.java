@@ -1,0 +1,6 @@
+package com.example.javaproject.week6.day5;
+
+public interface Ani {
+    void makeSound();
+
+}
